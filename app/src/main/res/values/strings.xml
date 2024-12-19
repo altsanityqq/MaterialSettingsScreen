@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MaterialSettingsScreen</string>
+    <string name="settings_title">Settings</string>
+    <string name="notification_title">Notification</string>
+    <string name="test">Notification Notification Notification Notification Notification Notification Notification</string>
+
+    <!-- Налаштування -->
+    <string name="show_fajr_imsak_syuruk">Show Fajr\'s Imsak and Syuruk</string>
+    <string name="show_dhuha_prayer_time">Show Dhuha Prayer Time</string>
+    <string name="use_dark_mode">Use Dark Mode</string>
+    <string name="use_24h_time_format">Use 24-Hour Time Format</string>
+
+    <!-- Про додаток -->
+    <string name="app_info">App Info</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about_app">About This App</string>
+
+    <!-- Налаштування нагадувань -->
+    <string name="upcoming_prayer_time">Upcoming Prayer Time</string>
+    <string name="notify_before_prayer_starts">Notify me before prayer starts</string>
+    <string name="prayer_time_ends">Prayer Time Ends</string>
+    <string name="notify_before_prayer_ends">Notify me before prayer ends</string>
+    <string name="notification_type">Notification Type</string>
+    <string name="default_device_sound">Default Device Sound</string>
+
+    <!-- Назви молитов -->
+    <string name="subuh">Subuh</string>
+    <string name="dhuha">Dhuha</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+
+    <!-- Тривалість -->
+    <string name="duration">Duration</string>
+    <string name="five_mins_before">5 Minutes Before</string>
+    <string name="ten_mins_before">10 Minutes Before</string>
+    <string name="fifteen_mins_before">15 Minutes Before</string>
+
+    <!-- Кнопки -->
+    <string name="done">Done</string>
+    <string name="back">Back</string>
+
+    <string name="configurable_reminder">Configurable Reminder</string>
+    <string name="player_time_notification">Player Time Notification</string>
+
+</resources>
